@@ -43,7 +43,10 @@ docker-compose up --build
 - **Docker / Docker Compose**
 - **MySQL**
 ## Screenshots
-<!-- Place your screenshots below -->
+<img width="2106" height="1182" alt="image" src="https://github.com/user-attachments/assets/c29139b1-b1d6-40f7-aee7-da994151a5ce" />
+<img width="1400" height="830" alt="image" src="https://github.com/user-attachments/assets/166e5521-df23-42dd-b150-137adfe34410" />
+
+
 
 
 ---
